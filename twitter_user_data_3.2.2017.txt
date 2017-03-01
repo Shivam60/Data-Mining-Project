@@ -1,0 +1,243 @@
+[
+    {
+        "coordinates": null, 
+        "created_at": "Wed Mar 01 18:59:31 +0000 2017", 
+        "geo_enabled": false, 
+        "lang": "en", 
+        "locatentitiesion": {
+            "hashtags": [], 
+            "symbols": [], 
+            "urls": [], 
+            "user_mentions": []
+        }, 
+        "location": "thanjavur", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "JNU walo ko goli marni chahiye ya to jo desh inke hisab se azad hai waha phek do#AzaadiDoublespeak", 
+        "time_zone": null
+    }, 
+    {
+        "coordinates": null, 
+        "created_at": "Wed Mar 01 18:59:33 +0000 2017", 
+        "geo_enabled": true, 
+        "lang": "en", 
+        "locatentitiesion": {
+            "hashtags": [], 
+            "symbols": [], 
+            "urls": [
+                {
+                    "expanded_url": null, 
+                    "indices": [
+                        131, 
+                        131
+                    ], 
+                    "url": ""
+                }
+            ], 
+            "user_mentions": [
+                {
+                    "id": 240649814, 
+                    "id_str": "240649814", 
+                    "indices": [
+                        3, 
+                        12
+                    ], 
+                    "name": "TIMES NOW", 
+                    "screen_name": "TimesNow"
+                }
+            ]
+        }, 
+        "location": "Faridabad, India", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @TimesNow: Shazia boycotted, Tarek Fatah threatened, but Umar Khalid embraced; is this an example of \u2018liberal doublespeak?\u2019 Tw\u2026 ", 
+        "time_zone": "Chennai"
+    }, 
+    {
+        "coordinates": null, 
+        "created_at": "Wed Mar 01 18:59:34 +0000 2017", 
+        "geo_enabled": false, 
+        "lang": "en", 
+        "locatentitiesion": {
+            "hashtags": [
+                {
+                    "indices": [
+                        32, 
+                        50
+                    ], 
+                    "text": "AzaadiDoublespeak"
+                }, 
+                {
+                    "indices": [
+                        51, 
+                        66
+                    ], 
+                    "text": "EndViolenceCPM"
+                }, 
+                {
+                    "indices": [
+                        67, 
+                        80
+                    ], 
+                    "text": "GurmeharKaur"
+                }, 
+                {
+                    "indices": [
+                        81, 
+                        92
+                    ], 
+                    "text": "HappyMarch"
+                }, 
+                {
+                    "indices": [
+                        93, 
+                        101
+                    ], 
+                    "text": "kashmir"
+                }, 
+                {
+                    "indices": [
+                        102, 
+                        122
+                    ], 
+                    "text": "NotebandiHit_GDPFit"
+                }, 
+                {
+                    "indices": [
+                        123, 
+                        133
+                    ], 
+                    "text": "RamjasRow"
+                }
+            ], 
+            "symbols": [], 
+            "urls": [
+                {
+                    "expanded_url": null, 
+                    "indices": [
+                        135, 
+                        135
+                    ], 
+                    "url": ""
+                }
+            ], 
+            "user_mentions": [
+                {
+                    "id": 108276322, 
+                    "id_str": "108276322", 
+                    "indices": [
+                        3, 
+                        18
+                    ], 
+                    "name": "Bakchod launda", 
+                    "screen_name": "9funnyarrogant"
+                }
+            ]
+        }, 
+        "location": null, 
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M5)</a>", 
+        "text": "RT @9funnyarrogant: Aur phelao! #AzaadiDoublespeak #EndViolenceCPM #GurmeharKaur #HappyMarch #kashmir #NotebandiHit_GDPFit #RamjasRow\u2026 ", 
+        "time_zone": null
+    }, 
+    {
+        "coordinates": {
+            "coordinates": [
+                82.7948, 
+                21.7866
+            ], 
+            "type": "Point"
+        }, 
+        "created_at": "Wed Mar 01 18:59:40 +0000 2017", 
+        "geo_enabled": true, 
+        "lang": "es", 
+        "locatentitiesion": {
+            "hashtags": [
+                {
+                    "indices": [
+                        2, 
+                        20
+                    ], 
+                    "text": "AzaadiDoublespeak"
+                }, 
+                {
+                    "indices": [
+                        23, 
+                        41
+                    ], 
+                    "text": "\u092d\u093e\u091c\u092a\u093e_\u0915\u0947_\u0926\u0941\u0937\u094d\u0915\u0930\u094d\u092e"
+                }, 
+                {
+                    "indices": [
+                        44, 
+                        61
+                    ], 
+                    "text": "Commando2In2Days"
+                }
+            ], 
+            "symbols": [], 
+            "urls": [], 
+            "user_mentions": []
+        }, 
+        "location": "India", 
+        "source": "<a href=\"http://laconversa.com\" rel=\"nofollow\">Trends from India</a>", 
+        "text": "\u2488 #AzaadiDoublespeak\n\u2489 #\u092d\u093e\u091c\u092a\u093e_\u0915\u0947_\u0926\u0941\u0937\u094d\u0915\u0930\u094d\u092e\n\u248a #Commando2In2Days\n\u248b Rs 150\n\u248c HBD KUTTY THALA AADVIK AJITH", 
+        "time_zone": "Mumbai"
+    }, 
+    {
+        "coordinates": null, 
+        "created_at": "Wed Mar 01 18:59:41 +0000 2017", 
+        "geo_enabled": false, 
+        "lang": "en", 
+        "locatentitiesion": {
+            "hashtags": [
+                {
+                    "indices": [
+                        96, 
+                        114
+                    ], 
+                    "text": "AzaadiDoublespeak"
+                }
+            ], 
+            "symbols": [], 
+            "urls": [], 
+            "user_mentions": [
+                {
+                    "id": 57588028, 
+                    "id_str": "57588028", 
+                    "indices": [
+                        3, 
+                        13
+                    ], 
+                    "name": "Rajeev sachan", 
+                    "screen_name": "Rkumars99"
+                }
+            ]
+        }, 
+        "location": null, 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @Rkumars99: \u0917\u0941\u0930\u092e\u0947\u0939\u0930 \u0915\u094c\u0930 \u0915\u094b \u0915\u0941\u091b \u0928 \u0915\u0939\u0947\u0902, \u0932\u0947\u0915\u093f\u0928 \u0909\u0938\u0938\u0947 \u0905\u0938\u0939\u092e\u0924 \u092b\u094b\u0917\u091f \u092c\u0939\u0928\u094b\u0902 \u0915\u094b \u091c\u094b \u092e\u0928 \u092e\u0947\u0902 \u0906\u090f \u0935\u0939 \u0915\u0939\u0947\u0902!!\n#AzaadiDoublespeak", 
+        "time_zone": "Pacific Time (US & Canada)"
+    }, 
+    {
+        "coordinates": null, 
+        "created_at": "Wed Mar 01 18:59:42 +0000 2017", 
+        "geo_enabled": true, 
+        "lang": "en", 
+        "locatentitiesion": {
+            "hashtags": [
+                {
+                    "indices": [
+                        59, 
+                        77
+                    ], 
+                    "text": "AzaadiDoublespeak"
+                }
+            ], 
+            "symbols": [], 
+            "urls": [], 
+            "user_mentions": []
+        }, 
+        "location": "NASA, USA", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "Me: Where is my angel \ud83d\ude07 \nFriend:  Tere paint ke andar hai.\n#AzaadiDoublespeak", 
+        "time_zone": "New Delhi"
+    }
+]
