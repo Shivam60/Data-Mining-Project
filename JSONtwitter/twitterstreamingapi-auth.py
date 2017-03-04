@@ -1,10 +1,10 @@
 from twython import TwythonStreamer
 from twython import Twython
 
-APP_KEY = 'HWXEFpnCXr7hnHqm946JRAeev'
-APP_SECRET = 'hgfwxD3NEgP9rEFWr5vFR8KPR9Q9aT7jSQfOQpMfUunfPv7j6j'
-OAUTH_TOKEN = '219146133-mjBvMnWJRzylketWtyzajcXMT3terBFCXcWiJJ7V'
-OAUTH_TOKEN_SECRET = 'TI2xPJulbr8GDmuqwyomIlfcWwiMcuLkLkuoDndMz9xt6'
+APP_KEY = ''
+APP_SECRET = ''
+OAUTH_TOKEN = '-'
+OAUTH_TOKEN_SECRET = ''
 
 class MyStreamer(TwythonStreamer):
     def on_success(self,data):

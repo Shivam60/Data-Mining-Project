@@ -1,11 +1,11 @@
 import twython
 from twython import Twython
-#consumer_key="HWXEFpnCXr7hnHqm946JRAeev"
-#consumer_secret="hgfwxD3NEgP9rEFWr5vFR8KPR9Q9aT7jSQfOQpMfUunfPv7j6j"
-#access_token_key="219146133-mjBvMnWJRzylketWtyzajcXMT3terBFCXcWiJJ7V"
-#access_token_secret="TI2xPJulbr8GDmuqwyomIlfcWwiMcuLkLkuoDndMz9xt6"
-APP_KEY = '1a2J9sDvexWIbJxl0RfdknihM'
-APP_SECRET = 'WOIlIzt9wUrrB1U286bi75B0YRxzqwYo4rMDHwTyeUtTB8VFRs'
+#consumer_key=""
+#consumer_secret=""
+#access_token_key="-"
+#access_token_secret=""
+APP_KEY = ''
+APP_SECRET = ''
 twitter = Twython(APP_KEY, APP_SECRET)
 auth = twitter.get_authentication_tokens()
 OAUTH_TOKEN = auth['oauth_token']
