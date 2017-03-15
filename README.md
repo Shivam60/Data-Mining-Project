@@ -15,3 +15,6 @@ Comming soon
 
 Phase 4:
 Comming soon
+
+
+Note: This has been discontinued and moved to Moody_tweets repo. All updates maintained from now on are for only private purposes and have no longer any resemblance to the project.
